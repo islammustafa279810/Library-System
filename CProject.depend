@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514045029 source:c:\users\ssp\desktop\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1514178168 source:c:\users\wagdy 7\desktop\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1514181281 source:f:\terms\term 3\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
