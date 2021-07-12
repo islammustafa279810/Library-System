@@ -2,7 +2,7 @@
 <br>
 Library System Project in C language
 <br>
-*Description:*
+**Description:**
 <br>
 It is required to write a program that will maintain a library system. The system manages
 books information, library visitors, borrowing, ... etc.
